@@ -14,6 +14,7 @@ const number = 2;
 const number3 = 3;
 const number4 = 3;
 const number5 = 3;
+const number6 = 3;
 const bodyParser = require("body-parser");
 const app = express();
 
