@@ -10,7 +10,7 @@ var path = require("path");
 // Log the configuration
 
 const mongoose = require("mongoose");
-
+const number = 2;
 const bodyParser = require("body-parser");
 const app = express();
 
